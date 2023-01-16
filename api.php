@@ -238,8 +238,8 @@ require_once("Rest.inc.php");
 			    'ads'=> array (
 			        'id' => '1',
 			        'ad_status' => 'on',
-			        'ad_type' => 'unity',
-			        'backup_ads' => 'startapp',
+			        'ad_type' => 'startapp',
+			        'backup_ads' => 'unity',
 			        'admob_publisher_id' => 'pub-6858304905719677',
 			        'admob_app_id' => 'ca-app-pub-3940256099942544~3347511713',
 			        'admob_banner_unit_id' => 'ca-app-pub-6858304905719677/8946446605',
@@ -328,8 +328,8 @@ require_once("Rest.inc.php");
 			    'ads' => array(
 			        'id' => '1',
 			        'ad_status' => 'on',
-			        'ad_type' => 'unity',
-			        'backup_ads' => 'startapp',
+			        'ad_type' => 'startapp',
+			        'backup_ads' => 'unity',
 			        'admob_publisher_id' => 'pub-6858304905719677',
 			        'admob_app_id' => 'ca-app-pub-3940256099942544~3347511713',
 			        'admob_banner_unit_id' => 'ca-app-pub-6858304905719677/8946446605',
